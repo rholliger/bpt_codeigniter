@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Applications/MAMP/htdocs/bpt_codeigniter",
+            "folder_exclude_patterns": ["system"],
+            "file_exclude_patterns": [".*", "*.sublime-workspace"]
+		}
+	]
+}
